@@ -1,1 +1,1 @@
-# Injury-Deetection-Using-Machine-Learning
+# Injury-Detection-Using-Machine-Learning
